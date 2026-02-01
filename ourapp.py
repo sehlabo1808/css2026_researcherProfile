@@ -28,7 +28,7 @@ st.title("Researcher Profile Page")
 st.subheader("Machine Learning for Early Breast Cancer Detection")
 
 st.image(
-    "C:/Users/rsehlabo.WSU/css2026_research_profile/profileyaka.jpeg",
+    "https://www.usz.ch/app/uploads/2025/02/usz-brustkrebs-illustration-medizinisch.png",
     caption="AI in Healthcare Research"
 )
 
@@ -120,3 +120,4 @@ st.write("0716359467")
 
 st.markdown("---")
 st.write("© 2026 Rebohele Sehlabo | MSc in Sceince in Computer Science")
+
